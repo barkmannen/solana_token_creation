@@ -7,6 +7,7 @@ Create custom tokens on the Solana blockchain effortlessly with this user-friend
 - **User-friendly Interface:** Intuitive design catering to both beginners and experienced developers.
 - **Customization Options:** Tailor tokens by specifying details like name, symbol, total supply, and decimals.
 - **Minting Functionality:** Seamlessly mint customized tokens directly on the Solana blockchain.
+- **Token Metadata:** Easily upload token metadata to Arweave for decentralized storage.
 - **Security:** Token creation employs secure smart contracts, ensuring the safety of your assets.
 
 ## Getting Started
@@ -61,6 +62,9 @@ Create custom tokens on the Solana blockchain effortlessly with this user-friend
 
    ### Mint Tokens: 
    Mint a specific number of tokens upon creation.
+
+   ### Token Metadata:
+   Easily upload metadata to Arweave. The tool automates the process for decentralized storage.
 
 ## Contributing
 
