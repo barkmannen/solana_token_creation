@@ -1,22 +1,19 @@
 # Solana Token Creator
 
-This repository provides a simple and streamlined solution for creating custom tokens on the Solana blockchain. Whether you're a developer looking to mint your own tokens or an enthusiast exploring the world of decentralized finance (DeFi), this tool makes the process easy and accessible.
+Create custom tokens on the Solana blockchain effortlessly with this user-friendly tool. Whether you're a developer diving into token minting or a DeFi enthusiast, this application simplifies the process.
 
 ## Features
 
-- **User-friendly Interface:** The token creation process is designed to be intuitive, making it suitable for both beginners and experienced developers.
-
-- **Customization Options:** Tailor your tokens by specifying details such as token name, symbol, total supply, and decimals.
-
-- **Minting Functionality:** The tool supports the minting of your customized tokens directly on the Solana blockchain.
-
-- **Secure:** Token creation is carried out with secure smart contracts, ensuring the safety of your assets.
+- **User-friendly Interface:** Intuitive design catering to both beginners and experienced developers.
+- **Customization Options:** Tailor tokens by specifying details like name, symbol, total supply, and decimals.
+- **Minting Functionality:** Seamlessly mint customized tokens directly on the Solana blockchain.
+- **Security:** Token creation employs secure smart contracts, ensuring the safety of your assets.
 
 ## Getting Started
 
 ### Prerequisites
 
-- Ensure you have [Node.js](https://nodejs.org/) installed on your machine.
+- Ensure [Node.js](https://nodejs.org/) is installed on your machine.
 
 ### Installation
 
@@ -32,13 +29,13 @@ This repository provides a simple and streamlined solution for creating custom t
    cd solana-token-creator
    ```
 
-3. Install the dependencies:
+3. Install dependencies:
 
    ```bash
    npm install
    ```
 
-### Usage
+## Usage
 
 1. Run the application:
 
@@ -48,11 +45,26 @@ This repository provides a simple and streamlined solution for creating custom t
 
 2. Access the tool through your web browser at [http://localhost:3000](http://localhost:3000).
 
-3. Follow the on-screen instructions to customize and create your Solana tokens.
+3. Customize and create your Solana tokens with the following features:
+
+   ### Token Name: 
+   Specify a unique name for your token.
+
+   ### Token Symbol: 
+   Choose a symbol to represent your token.
+
+   ### Total Supply: 
+   Define the total supply of your token.
+
+   ### Decimals: 
+   Set the number of decimal places for your token.
+
+   ### Mint Tokens: 
+   Mint a specific number of tokens upon creation.
 
 ## Contributing
 
-If you'd like to contribute to this project, please follow the [contribution guidelines](CONTRIBUTING.md).
+If you'd like to contribute, please follow the [contribution guidelines](CONTRIBUTING.md).
 
 ## License
 
